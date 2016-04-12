@@ -1,0 +1,28 @@
+name: Morgan Digital Ventures
+favicon: null
+layout_spectrum: 0.7647807921748608
+typography_spectrum: 0.039374270010739565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.00961123569868505
+  lightness: 0.05878883763216436
+  saturation: 0.7493574160616845
+  rhythmicContrast: 0.6861851571593434
+purpose: []
